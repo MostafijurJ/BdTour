@@ -54,7 +54,6 @@ public class contact extends HttpServlet {
            
            if(rs == 1)
            {
-        
         String redirectedPage = "/parentPage";
           response.sendRedirect("thankyou.jsp");
        //response.sendRedirect("home.jsp");

@@ -1,0 +1,17 @@
+<component name="libraryTable">
+  <library name="lib">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/build/web/WEB-INF/lib/jsp-api.jar!/" />
+      <root url="jar://$PROJECT_DIR$/build/web/WEB-INF/lib/servlet-api.jar!/" />
+      <root url="jar://$PROJECT_DIR$/build/web/WEB-INF/lib/org.hamcrest.core_1.3.0.v201303031735.jar!/" />
+      <root url="jar://$PROJECT_DIR$/build/web/WEB-INF/lib/tomcat-util.jar!/" />
+      <root url="jar://$PROJECT_DIR$/build/web/WEB-INF/lib/junit.jar!/" />
+      <root url="jar://$PROJECT_DIR$/build/web/WEB-INF/lib/tomcat-jdbc.jar!/" />
+      <root url="jar://$PROJECT_DIR$/build/web/WEB-INF/lib/jcalendar-1.4.jar!/" />
+      <root url="jar://$PROJECT_DIR$/build/web/WEB-INF/lib/mysql-connector-java-5.1.46-bin.jar!/" />
+      <root url="jar://$PROJECT_DIR$/build/web/WEB-INF/lib/jstl-1.2.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
